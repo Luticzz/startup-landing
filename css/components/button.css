@@ -1,0 +1,16 @@
+.btn-blue {
+  display: inline-block;
+  background-color: #4a90e2;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-family: 'Roboto', sans-serif;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.btn-blue:hover {
+  background-color: #357abd;
+  transform: translateY(-2px);
+}
